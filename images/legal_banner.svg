@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="200px" viewBox="0 0 800 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1E3F66" offset="0%"></stop>
+            <stop stop-color="#4E8DC0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Legal-Banner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="url(#linearGradient-1)" x="0" y="0" width="800" height="200" rx="10"></rect>
+        <g id="Scale-of-Justice" transform="translate(50, 50)" fill="#FFFFFF">
+            <path d="M100,0 C97.5,0 95.3,1.2 94,3.2 L60,50 L20,50 C9,50 0,59 0,70 L0,80 C0,85.5 4.5,90 10,90 L30,90 L30,140 L20,140 C15.5,140 10,145.5 10,150 L10,170 C10,174.5 15.5,180 20,180 L180,180 C184.5,180 190,174.5 190,170 L190,150 C190,145.5 184.5,140 180,140 L170,140 L170,90 L190,90 C195.5,90 200,85.5 200,80 L200,70 C200,59 191,50 180,50 L140,50 L106,3.2 C104.7,1.2 102.5,0 100,0 Z M100,30 L120,60 L80,60 L100,30 Z M40,60 L70,60 C70,77.3 56.3,90 40,90 L40,60 Z M160,60 L160,90 C143.7,90 130,77.3 130,60 L160,60 Z M50,100 L150,100 L150,140 L50,140 L50,100 Z M30,150 L170,150 L170,160 L30,160 L30,150 Z" fill-rule="nonzero"></path>
+        </g>
+        <text id="Studio-Legale" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="end" x="750" y="100">Studio Legale</text>
+        <text id="Preventivatore-Servizi" font-family="Georgia, serif" font-size="28" font-weight="normal" fill="#FFFFFF" text-anchor="end" x="750" y="140">Preventivatore Servizi</text>
+    </g>
+</svg>

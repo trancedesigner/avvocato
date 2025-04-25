@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="300px" viewBox="0 0 400 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4A7FB0" offset="0%"></stop>
+            <stop stop-color="#1E3F66" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Legal-Service" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="url(#linearGradient-1)" x="0" y="0" width="400" height="300" rx="10"></rect>
+        <g id="Document" transform="translate(100, 50)" fill="#FFFFFF">
+            <path d="M180,0 C185.5,0 190,4.5 190,10 L190,190 C190,195.5 185.5,200 180,200 L10,200 C4.5,200 0,195.5 0,190 L0,10 C0,4.5 4.5,0 10,0 L180,0 Z M170,20 L20,20 L20,180 L170,180 L170,20 Z" fill-rule="nonzero"></path>
+            <rect id="Line1" x="40" y="50" width="100" height="5" rx="2.5"></rect>
+            <rect id="Line2" x="40" y="70" width="120" height="5" rx="2.5"></rect>
+            <rect id="Line3" x="40" y="90" width="80" height="5" rx="2.5"></rect>
+            <rect id="Line4" x="40" y="110" width="110" height="5" rx="2.5"></rect>
+            <rect id="Line5" x="40" y="130" width="90" height="5" rx="2.5"></rect>
+            <rect id="Signature" x="100" y="160" width="50" height="3" rx="1.5"></rect>
+        </g>
+    </g>
+</svg>

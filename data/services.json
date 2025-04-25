@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Consulenza Legale",
+    "description": "Consulenza legale generica su questioni di diritto civile, penale o amministrativo.",
+    "file_content": null
+  },
+  {
+    "id": 2,
+    "name": "Assistenza Contrattuale",
+    "description": "Assistenza nella redazione, revisione e negoziazione di contratti civili e commerciali.",
+    "file_content": null
+  },
+  {
+    "id": 3,
+    "name": "Recupero Crediti",
+    "description": "Procedure stragiudiziali e giudiziali per il recupero di crediti non pagati.",
+    "file_content": null
+  },
+  {
+    "id": 4,
+    "name": "Diritto di Famiglia",
+    "description": "Assistenza in materia di separazioni, divorzi, affidamento minori e tutela patrimoniale.",
+    "file_content": null
+  },
+  {
+    "id": 5,
+    "name": "Diritto Immobiliare",
+    "description": "Assistenza per compravendite immobiliari, locazioni, controversie condominiali.",
+    "file_content": null
+  },
+  {
+    "id": 6,
+    "name": "Diritto Successorio",
+    "description": "Consulenza e assistenza in materia di successioni ereditarie e testamenti.",
+    "file_content": null
+  }
+]

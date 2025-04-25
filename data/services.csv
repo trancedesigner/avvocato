@@ -1,0 +1,8 @@
+id,nome_servizio,descrizione,categoria,documento
+1,Consulenza Legale Generale,Consulenza legale generale su questioni civili,Consulenza,
+2,Assistenza Contrattuale,Redazione e revisione di contratti,Contratti,
+3,Procedimento Civile Ordinario,Rappresentanza in procedimenti civili ordinari,Contenzioso,
+4,Procedimento Esecutivo,Assistenza in procedure esecutive e recupero crediti,Esecuzione,
+5,Procedimento di Separazione/Divorzio,Assistenza in procedimenti di separazione o divorzio,Famiglia,
+6,Assistenza Stragiudiziale,Assistenza in trattative e mediazioni stragiudiziali,Stragiudiziale,
+7,Procedimento Amministrativo,Assistenza in procedimenti amministrativi,Amministrativo,

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1E3F66" offset="0%"></stop>
+            <stop stop-color="#4A7FB0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Money-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Background" fill="url(#linearGradient-1)" cx="100" cy="100" r="100"></circle>
+        <g id="Euro" transform="translate(50, 50)" fill="#FFFFFF">
+            <path d="M50,0 C22.4,0 0,22.4 0,50 C0,77.6 22.4,100 50,100 C65.2,100 78.6,93.2 87.8,82.2 L72.8,70.4 C67.2,77 59.1,81 50,81 C37.6,81 27,72.6 23.5,61 L60,61 L60,50 L21.3,50 C21.1,48.7 21,47.3 21,46 C21,44.7 21.1,43.3 21.3,42 L60,42 L60,31 L23.5,31 C27,19.4 37.6,11 50,11 C59.1,11 67.2,15 72.8,21.6 L87.8,9.8 C78.6,-1.2 65.2,-8 50,-8 L50,0 Z" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
